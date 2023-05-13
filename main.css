@@ -1,0 +1,24 @@
+.container{
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.item{
+    width: 100px;
+    height: 100px;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+#item-1{
+    background-color: blue;
+}
+#item-2{
+    background-color: green;
+}
+#item-3{
+    background-color: red;
+}
